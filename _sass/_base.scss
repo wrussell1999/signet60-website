@@ -351,3 +351,9 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+.map {
+    background-image: url('/img/map.png');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
