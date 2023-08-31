@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/header-2023.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -400,4 +400,8 @@ body {
         margin-top: 20px;
         margin-bottom: 20px;
     }
+}
+
+#tracker iframe {
+    width: 100% !important
 }
